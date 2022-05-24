@@ -10,22 +10,28 @@
 
 ### Functional interface
 * Functional interface is declared with the operate method.
+
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/functionalInterface.JPG)
 ### Addition interface implementation
 * Sum functional interface implementation using a lambda expression.
+
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/sumImplementation.JPG)
 ### Substract interface implementation
 * Substraction functional interface implementation using a lambda expression.
+
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/subImplementation.JPG)
 ### Multiplication interface implementation
 * Multiplication functional interface implementation using sum interface implementation.
+
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/multImplementation.JPG)
 ### Division interface implementation
 * Multiplication functional interface implementation using substraction interface implementation.
+
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/divImplementation.JPG)
 ### Interface instances and operation.
-![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/operations.JPG)
 * Instantiation of the interfaces using the implementations of the four basic operations: addition, subtraction, multiplication and division.
+
+![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/operations.JPG)
 
 ## Technologies
 ***

@@ -25,7 +25,7 @@
 
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/multImplementation.JPG)
 ### Division interface implementation
-* Multiplication functional interface implementation using substraction interface implementation.
+* Multiplication functional interface implementation using substraction interface implementation. In case the denominator is zero an exception will be thrown.
 
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/divImplementation.JPG)
 ### Interface instances and operation.

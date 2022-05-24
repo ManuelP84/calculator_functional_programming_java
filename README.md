@@ -13,7 +13,7 @@
 
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/functionalInterface.JPG)
 ### Addition interface implementation
-* Sum functional interface implementation using a lambda expression.
+* Adition functional interface implementation using a lambda expression.
 
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/sumImplementation.JPG)
 ### Substract interface implementation
@@ -21,7 +21,7 @@
 
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/subImplementation.JPG)
 ### Multiplication interface implementation
-* Multiplication functional interface implementation using sum interface implementation.
+* Multiplication functional interface implementation using adition interface implementation.
 
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/multImplementation.JPG)
 ### Division interface implementation

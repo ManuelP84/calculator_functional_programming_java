@@ -32,6 +32,10 @@
 * Instantiation of the interfaces using the implementations of the four basic operations: addition, subtraction, multiplication and division.
 
 ![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/operations.JPG)
+### Results.
+* Results from the four operations.
+
+![Image text](https://github.com/ManuelP84/calculator_functional_programming_java/blob/main/src/img/result.JPG)
 
 ## Technologies
 ***
